@@ -1,0 +1,17 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+h1 {
+    color: rgb(20, 34, 192);
+    text-align: center;
+    background: black;
+}
+
+.column {
+    border-color: rgb(20, 34, 192); 
+    border-width: 10px; 
+    border-style: ridge;
+}
